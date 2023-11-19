@@ -1,0 +1,25 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "demo": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgliang001/ev-emitter__codesanbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pgliang001/ev-emitter__codesanbox/issues"
+  },
+  "homepage": "https://github.com/pgliang001/ev-emitter__codesanbox#readme",
+  "dependencies": {
+    "ev-emitter": "^2.1.2",
+    "ev-emitter2": "https://github.com/pgliang001/ev-emitter.git"
+  }
+}
